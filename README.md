@@ -112,6 +112,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✍️ Autor
 
-**[Seu Nome]** - Estudante de Data Science
+**[Nathália Costa]** - Estudante de Data Science
 
-[GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+[GitHub](https://github.com/nathcpc) | [LinkedIn](https://www.linkedin.com/in/nathcpcosta/)

@@ -1,36 +1,49 @@
 # Python Fundamentos para Data Science
 
-## 📚 Conteúdo
+Resumos e anotações completos sobre os fundamentos de Python necessários para Data Science.
 
-### Ambiente de Desenvolvimento e Primeiros Passos
-- [Resumo: Configuração do Ambiente](ambiente-desenvolvimento/resumo-ambiente.md)
+## 📚 Conteúdo do Módulo
 
-### Conhecendo a Linguagem Python
-- [Resumo: Tipagem e Estruturas de Dados](conhecendo-python/resumo-tipagem-estruturas.md)
+- [Ambiente de Desenvolvimento e Primeiros Passos](resumo-ambiente-desenvolvimento.md)
+- [Conhecendo a Linguagem de Programação Python](resumo-conhecendo-python.md)
+- [Tipos de Operadores com Python](resumo-tipos-operadores.md)
+- [Manipulando Strings com Python](resumo-manipulando-strings.md)
+- [Trabalhando com Listas em Python](resumo-trabalhando-listas.md)
+- [Conhecendo Tuplas em Python](resumo-conhecendo-tuplas.md)
+- [Explorando Conjuntos em Python](resumo-explorando-conjuntos.md)
+- [Aprendendo a Utilizar Dicionários em Python](resumo-utilizando-dicionarios.md)
+- [Dominando Funções em Python](resumo-dominando-funcoes.md)
 
-### Tipos de Operadores com Python
-- [Resumo: Operadores](tipos-operadores/resumo-operadores.md)
+---
 
-### Manipulando Strings com Python
-- [Resumo: Strings e Fatiamento](manipulando-strings/resumo-strings.md)
+## 🎯 Objetivos do Módulo
 
-### Trabalhando com Listas
-- [Resumo: Listas e List Comprehension](trabalhando-listas/resumo-listas.md)
+Ao final deste módulo, você será capaz de:
+- Configurar um ambiente de desenvolvimento Python profissional
+- Entender a tipagem dinâmica e forte do Python
+- Utilizar todos os tipos de dados básicos
+- Manipular strings com segurança
+- Trabalhar com estruturas de dados (listas, tuplas, dicionários, conjuntos)
+- Criar e utilizar funções avançadas com args e kwargs
 
-### Conhecendo Tuplas
-- [Resumo: Tuplas Imutáveis](conhecendo-tuplas/resumo-tuplas.md)
+---
 
-### Explorando Conjuntos
-- [Resumo: Sets e Operações](explorando-conjuntos/resumo-conjuntos.md)
+## 💡 Conceitos-Chave
 
-### Utilizando Dicionários
-- [Resumo: Dicionários e Métodos](utilizando-dicionarios/resumo-dicionarios.md)
+**Tipagem:** Python é dinamicamente tipado (tipo verificado em runtime) e fortemente tipado (não permite mistura de tipos incompatíveis).
 
-### Dominando Funções
-- [Resumo: Funções e Args/Kwargs](dominando-funcoes/resumo-funcoes.md)
+**Estruturas de Dados:** Listas (mutáveis), tuplas (imutáveis), dicionários (chave-valor), conjuntos (únicos).
 
-### Desafio
-- [Desafio Final do Módulo](desafio/desafio-python.md)
+**Funções:** Primeiro-classe, suportam *args/**kwargs, podem retornar múltiplos valores.
+
+---
+
+## 📝 Como Usar Este Módulo
+
+1. Comece pelo arquivo de **Ambiente de Desenvolvimento**
+2. Siga a ordem dos resumos
+3. Pratique os exemplos de código em um script Python
+4. Revise regularmente os conceitos
 
 ---
 
