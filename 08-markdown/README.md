@@ -4,12 +4,14 @@ Aprenda a escrever documentação profissional com Markdown, a linguagem mais us
 
 ## 📚 Conteúdo do Módulo
 
-- [Introdução ao Markdown](resumo-markdown.md#introdução-ao-markdown)
-- [Sintaxe Básica](resumo-markdown.md#sintaxe-básica)
-- [Tabelas e Listas](resumo-markdown.md#tabelas-e-listas)
-- [Formatação Avançada](resumo-markdown.md#formatação-avançada)
-- [Criando READMEs Profissionais](resumo-markdown.md#criando-readmes-profissionais)
-- [Dicas Práticas](resumo-markdown.md#dicas-práticas)
+- [O que é Markdown?](resumo-markdown.md#-o-que-é-markdown)
+- [Sintaxe Básica](resumo-markdown.md#-sintaxe-básica)
+- [Tabelas](resumo-markdown.md#-tabelas)
+- [Formatação Avançada](resumo-markdown.md#-formatação-avançada)
+- [Criando READMEs Profissionais](resumo-markdown.md#-criando-readmes-profissionais)
+- [Dicas Práticas](resumo-markdown.md#-dicas-práticas)
+- [Exercício Prático](resumo-markdown.md#-exercício-prático)
+- [Recursos Recomendados](resumo-markdown.md#-recursos-recomendados)
 
 ---
 
@@ -43,7 +45,6 @@ Neste módulo você aprenderá:
 Dentro desta pasta você encontrará:
 
 - `resumo-markdown.md` - Mini-curso completo com todos os tópicos
-- `exemplos/` - Arquivos de exemplo práticos
 
 ---
 
@@ -76,6 +77,24 @@ python main.py
 
 [Saiba mais](https://exemplo.com)
 ```
+
+---
+
+## 💡 Dica para Descobrir Âncoras
+
+Se você quiser saber qual âncora um título gera:
+
+1. Copie o título
+2. Remova emojis
+3. Converta para minúsculas
+4. Substitua espaços por `-`
+5. Remova acentos (às vezes)
+
+**Exemplo:**
+- `## 📝 Sintaxe Básica` → `#-sintaxe-básica`
+- `## Criando READMEs` → `#criando-readmes`
+
+Ou simplesmente teste no GitHub!
 
 ---
 

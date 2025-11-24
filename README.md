@@ -55,6 +55,13 @@ Repositório de resumos, anotações e desafios do bootcamp de Data Science.
 - Desafio Computação em Nuvem
 - Desafio Machine Learning
 
+### 8. Markdown - Documentação e Formatação
+- Introdução ao Markdown
+- Sintaxe Básica
+- Tabelas e Listas
+- Formatação Avançada
+- Criando READMEs Profissionais
+
 ---
 
 ## 🗂️ Organização dos Arquivos
