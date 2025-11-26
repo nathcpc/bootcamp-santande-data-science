@@ -236,7 +236,8 @@ if "admin" in ["user", "moderator", "admin"]:
 
 ### Operadores de Identidade (`is`, `is not`)
 
-Verificam se dois objetos são o MESMO objeto (não só iguais).
+Sao utilizados para comparar se os dois objetos testados usam a mesma posição na memória. 
+Ou seja: verificam se dois objetos são o MESMO objeto (não só iguais).
 
 ```python
 # IS - Mesmo objeto na memória
